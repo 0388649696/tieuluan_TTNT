@@ -1,6 +1,7 @@
-# tieuluan_TTNT - Phân loại cảm xúc văn bản sử dụng mô hình Naive Bayes
+# Tieuluan_TTNT&HM - Phân loại cảm xúc văn bản sử dụng mô hình Naive Bayes
 ### Nguyễn Đức Anh Tú
 ### K225480106070
+- Gồm có: Word + Code + Video thuyết trình
 
 ### Link video: 
   https://www.youtube.com/watch?v=YS9S3EZfeP0
